@@ -40,6 +40,6 @@ Here are some of the technologies and tools I work with:
 ## 🔗 Connect with Me
 
 - [email] (https://www.linkedin.com/in/conrado-torino-989168228/)
-- !(https://github.com/tandpfun/skill-icons/blob/main/icons/Linkedin.svg)(torinoconrado@gmail.com)
+- !(https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg)(torinoconrado@gmail.com)
 
 
