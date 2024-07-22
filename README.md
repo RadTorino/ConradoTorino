@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a Da with a passion for [Your Interests].
 
 ![Python](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg)
 ![MySQL](https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg)
-![Google Cloud](https://github.com/tandpfun/skill-icons/blob/main/icons/GoogleCloud-Dark.svg)
+![Google Cloud](https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg)
 ![Git](https://github.com/tandpfun/skill-icons/blob/main/icons/Git-Dark.svg)
 ![TensorFlow](https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg)
 ![Scikit-learn](https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg)
