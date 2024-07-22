@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a Da with a passion for [Your Interests].
 
 ![Python](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg)
 ![MySQL](https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg)
-![Google Cloud](https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg)
+![Google Cloud](https://github.com/tandpfun/skill-icons/blob/main/icons/GCP.svg)
 ![Git](https://github.com/tandpfun/skill-icons/blob/main/icons/Git-Dark.svg)
 ![TensorFlow](https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg)
 ![Scikit-learn](https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg)
@@ -39,7 +39,7 @@ Here are some of the technologies and tools I work with:
 
 ## 🔗 Connect with Me
 
-- [email] (https://www.linkedin.com/in/conrado-torino-989168228/)
-- !(https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg)(torinoconrado@gmail.com)
+- [email] (torinoconrado@gmail.com) (https://www.linkedin.com/in/conrado-torino-989168228/)
+- ![LinkedIn](https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg) (https://www.linkedin.com/in/conrado-torino-989168228/)
 
 
