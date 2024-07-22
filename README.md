@@ -3,14 +3,12 @@
 Welcome to my GitHub profile! I'm a Da with a passion for [Your Interests].
 ## 🌟 About Me
 
-- 🔭 I’m currently working on: [Your Current Projects]
-- 🌱 I’m currently learning: [What You're Learning]
-- 👯 I’m looking to collaborate on: [Projects or Fields You're Interested In]
-- 🤔 I’m looking for help with: [Any Help You Need]
-- 💬 Ask me about: [Your Expertise or Interests]
-- 📫 How to reach me: [Your Contact Information]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A Fun Fact About You]
+![Python](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg)
+![MySQL](https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg)
+![Google Cloud](https://github.com/tandpfun/skill-icons/blob/main/icons/GoogleCloud-Dark.svg)
+![Git](https://github.com/tandpfun/skill-icons/blob/main/icons/Git-Dark.svg)
+![TensorFlow](https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg)
+![Scikit-learn](https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg)
 
 ## 📈 GitHub Stats
 
@@ -42,6 +40,6 @@ Here are some of the technologies and tools I work with:
 ## 🔗 Connect with Me
 
 - [LinkedIn] (https://www.linkedin.com/in/conrado-torino-989168228/)
-- [Email] (torinoconrado@gmail.com)
+![Scikit-learn](https://github.com/tandpfun/skill-icons/blob/main/icons/Linkedin.svg)(torinoconrado@gmail.com)
 
 
