@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a Da with a passion for [Your Interests].
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RadTorino&show_icons=true&theme=radical)
 
 ## 🛠️ Technologies & Tools
 
