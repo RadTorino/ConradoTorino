@@ -42,6 +42,6 @@ Here are some of the technologies and tools I work with:
 ## 🔗 Connect with Me
 
 - [LinkedIn] (https://www.linkedin.com/in/conrado-torino-989168228/)
-- [Email](torinoconrado@gmail.com)
+- [Email] (torinoconrado@gmail.com)
 
 
