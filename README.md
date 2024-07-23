@@ -23,7 +23,7 @@ Here are some of the technologies and tools I work with:
 
 ## 🚀 Projects
 
-### [Juegos Steam](https://github.com/RadTorino/Juegos_Steam)
+### [Starbucks Analysis](https://github.com/RadTorino/Starbucks_Analysis)
 A project analyzing data from Steam to provide insights into the most popular and trending games. Python functions deployed on FastAPI.
 
 ### [Siniestros Viales CABA](https://github.com/RadTorino/Siniestros_Viales_caba)
