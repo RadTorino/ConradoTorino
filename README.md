@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Conrado Torino!
-¡Hola, soy Conrado Torino!
+
 Welcome to my GitHub profile! I'm a Data Scientist with a passion for solving problems and creating value through code and AI.
+
 ¡Bienvenido a mi perfil de GitHub! Soy un Científico de Datos con pasión por resolver problemas y crear valor a través del código y la IA.
 
 ## 🌟 About Me / Sobre Mí
