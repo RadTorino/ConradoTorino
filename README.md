@@ -7,14 +7,20 @@ Welcome to my GitHub profile! I'm a Data Scientist with a passion for solving pr
 ## 🌟 About Me / Sobre Mí
 *English:*
 I began my programming journey over a year ago, starting with CS50 and now working as a freelancer.
+
 During my training in Data, I worked on various Data Analysis, ETL, and Machine Learning projects using Python. Visualization in PowerBI, deployments with Streamlit and FastAPI.
+
 Since February, I’ve been involved in various data-related projects, including AI-generated images and text, natural language processing, and the creation and maintenance of databases for applications. This diverse range of projects keeps me in a constant learning loop and always searching for new technologies.
+
 Recently, I’ve focused on AI development, delving into areas like Prompt Engineering, RAG (Retrieval-Augmented Generation), and Agents. This rapidly evolving field requires thorough research, and I’ve found that many practical, agile, and easily implementable solutions are already available. Adapting existing work, code, and libraries to meet my clients' needs is a skill I highly value.
 
 *Español:*
 Comencé mi viaje en la programación hace más de un año, empezando con CS50 y ahora trabajando como freelancer.
+
 Durante mi formación en Datos, trabajé en distintos proyectos de Análisis de Datos, ETL y Machine Learning con Python. Visualización en PowerBI, despliegues con Streamlit y FastAPI.
+
 Desde febrero, estoy trabajando en diversos proyectos relacionados con datos. Incluyendo generación de imágenes y texto con IA, procesamiento de lenguaje natural, y la creación y mantenimiento de bases de datos para aplicaciones. La variedad de proyectos me mantiene en un constante proceso de aprendizaje y siempre en búsqueda de nuevas tecnologías.
+
 En los últimos meses, me centré en el desarrollo de IA, explorando áreas como el Prompt Engineering, RAG (Generación Aumentada por Recuperación) y Agentes. Este campo en constante evolución requiere una investigación exhaustiva, y he descubierto que muchas soluciones prácticas, ágiles y fácilmente implementables ya están disponibles. Considero valioso el skill de adaptar trabajos, códigos y librerías existentes para satisfacer las necesidades de mis clientes.
 
 ## 📈 GitHub Stats
