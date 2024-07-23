@@ -4,6 +4,8 @@ Welcome to my GitHub profile! I'm a Data Scientist with a passion for solving pr
 ## 🌟 About Me
 I began my programming journey over a year ago, starting with CS50 and now working as a freelancer.
 
+During my training in Data, I worked on various Data Analysis, ETL, and Machine Learning projects using Python. Visualization in PowerBI, deployments with Streamlit and FastAPI.
+
 Since February, I’ve been involved in various data-related projects, including AI-generated images and text, natural language processing, and the creation and maintenance of databases for applications. This diverse range of projects keeps me in a constant learning loop and always searching for new technologies.
 
 Recently, I’ve focused on AI development, delving into areas like Prompt Engineering, RAG (Retrieval-Augmented Generation), and Agents. This rapidly evolving field requires thorough research, and I’ve found that many practical, agile, and easily implementable solutions are already available. Adapting existing work, code, and libraries to meet my clients' needs is a skill I highly value.
