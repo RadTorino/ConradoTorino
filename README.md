@@ -23,7 +23,7 @@ Here are some of the technologies and tools I work with:
 
 ## 🚀 Projects
 
-### [Starbucks Analysis](https://github.com/RadTorino/Starbucks_Analysis)
+### [Games Analysis](https://github.com/RadTorino/Juegos_Steam)
 A project analyzing data from Steam to provide insights into the most popular and trending games. Python functions deployed on FastAPI.
 
 ### [Siniestros Viales CABA](https://github.com/RadTorino/Siniestros_Viales_caba)
@@ -32,7 +32,7 @@ An analysis of traffic accidents in Buenos Aires City, providing valuable insigh
 ### [Scrapping Valores Dólar](https://github.com/RadTorino/Scrapping-Valores-Dolar)
 A web scraping project to collect and analyze data on dollar exchange rates from various sources. Authomatic Webscrapping and data upload on Excel. 
 
-### [Prueba PF Henry](https://github.com/RadTorino/Prueba_PF_Henry)
+### [Starbucks Analysis](https://github.com/RadTorino/Starbucks_Analysis)
 A project exploring reviews from Google and Yelp for Starbucks. Machine Learning project with Streamlit deployed on Google Cloud. Very interesting Review analysis using LLama 70B via GroqAI API.
 
 
